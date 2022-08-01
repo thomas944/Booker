@@ -1,6 +1,5 @@
 # Booker
 Search for a book to find out more about it 
-Uses selenium library to automate collecting the data, uses nltk library to analyze sentiment
 
 
 
