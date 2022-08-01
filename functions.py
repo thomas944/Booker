@@ -84,6 +84,7 @@ def showPercentage():
 
   ax.set_xticklabels(['Negative', 'Neutral', 'Positive'])
   ax.set_ylabel("Percentage")
+  plt.show()
 
 def process_text(sentence):
   tokenizer = tokenizer = RegexpTokenizer(r'\w+')
